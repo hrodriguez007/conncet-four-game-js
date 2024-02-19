@@ -1,3 +1,2 @@
-### This is a University Responsive Website using HTML and CSS
-
+### This is a Connect Four Game using JS, HTML, and JS
 [Click here to see it live]()
