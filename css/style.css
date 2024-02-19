@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+* {
+    font-family: 'Anta', sans-serif;
+}
+
+.grid {
+    border: 1px solid #987;
+    height: 120px;
+    width: 140px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div {
+    height: 20px;
+    width: 20px;
+    /* background-color: #000; */
+}
+
+/* 10px border-radius makes it a circle */
+.player-1 {
+    background-color: red;
+    border-radius: 10px;
+}
+
+.player-2 {
+    background-color: blue;
+    border-radius: 10px;
+}
