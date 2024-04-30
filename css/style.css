@@ -19,11 +19,11 @@
 
 /* 10px border-radius makes it a circle */
 .player-1 {
-    background-color: red;
+    background-color: rgb(36, 156, 172);
     border-radius: 10px;
 }
 
 .player-2 {
-    background-color: blue;
+    background-color: rgb(255, 0, 230);
     border-radius: 10px;
 }
