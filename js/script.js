@@ -106,8 +106,8 @@ function checkBoard() {
             //then need to get the score
             score.innerHTML = "Player One Wins!"
         }
-        //check that squares for the class of player-1
-        //if the square1, square2, sqaure3, square4 contains the player-1
+        //check that squares for the class of player-2
+        //if the square1, square2, sqaure3, square4 contains the player-2
         if (
             square1.classList.contains('player-2') &&
             square2.classList.contains('player-2') &&
